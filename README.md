@@ -1,2 +1,1 @@
-# simple-database-site
-Database site using php, XAMMP, and MySQL.
+[Site deploy](https://simple-database.000webhostapp.com/index.php)
